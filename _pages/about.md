@@ -6,7 +6,7 @@ subtitle: PhD Student @ Georgia Institute of Technology
 
 profile:
   align: right
-  image: my_pic.jpeg
+  image: personal_photo.jpeg
   image_circular: false # crops the image to make it circular
   address: >
 
